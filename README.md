@@ -32,7 +32,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/balbis-l/balbis-l/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
 
 ###
 
